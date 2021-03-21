@@ -1,0 +1,9 @@
+{
+  "name": "mqwatcher",
+  "version": "1.0.0",
+  "main":"server.js",
+  "dependencies": {
+    "amqplib": "^0.7.1",
+    "express": "^4.17.1"
+  }
+}
